@@ -1,0 +1,30 @@
+florr-auto-afk (Auto-Start Edition)
+Copyright (C) 2026 [你的名字/ID]
+
+本作品基于以下开源项目改编：
+
+  florr-auto-afk
+  Copyright (C) Shiny-Ladybug
+  https://github.com/Shiny-Ladybug/florr-auto-afk
+  Licensed under GNU General Public License v3.0
+
+修改说明：
+  本改编版在原项目基础上新增了自动启动功能。
+  具体修改为在程序入口处增加了自动启动逻辑，
+  使程序启动后自动开始挂机，无需用户手动点击运行按钮。
+
+  修改日期：2026-10-04
+
+根据 GNU General Public License v3.0 第 5 条，
+本衍生作品继续采用 GPL-3.0 许可证发布，
+完整许可证文本见同目录下的 LICENSE 文件。
+
+原项目中的所有版权声明、作者署名和许可证声明均予以保留。
+
+---
+
+Original Project Notice:
+  florr-auto-afk
+  Repository: https://github.com/Shiny-Ladybug/florr-auto-afk
+  License: GNU General Public License v3.0
+  Copyright (C) Shiny-Ladybug
